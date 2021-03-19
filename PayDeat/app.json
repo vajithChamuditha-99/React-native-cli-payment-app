@@ -1,0 +1,12 @@
+{
+  "name": "PayDeat",
+  "displayName": "PayDeat",
+  "expo": {
+    "name": "PayDeat",
+    "slug": "PayDeat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
